@@ -6,11 +6,6 @@ cdn.glitch.com
 trk.klclick2.com
 cdn.mcauto-images-production.sendgrid.net
 nlxe.lt.emlnk.com
-95.217.27.240
-195.201.251.82
-91.213.50.70
-51.255.211.253
-146.70.86.136
 teensoft.org
 wh1tesoftware.me
 soft-exp.org		
