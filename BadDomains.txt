@@ -54,3 +54,4 @@ j2update.cc
 maxpatrol.net
 nsdps.cc
 rcmsf100.net
+acronis.com
