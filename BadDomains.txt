@@ -56,3 +56,4 @@ maxpatrol.net
 nsdps.cc
 rcmsf100.net
 acronis.com
+*.yourbestnetwork.net
