@@ -49,6 +49,7 @@ allowlisted.net
 atlas-upd.com
 cbox4.ignorelist.com
 claudfront.net
+yourbestnetwork.net
 hsdps.cc
 j2update.cc
 maxpatrol.net
